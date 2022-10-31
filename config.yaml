@@ -108,7 +108,7 @@ params:
     # option to specify the title in the homepage
     title: Alicia Bargar
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Network Science + ML Engineering + Social Interest
     # option to specify image in the homepage
     image: "/images/me_illustrated.png" # worker.svg 
     # option to specify the width of the image in the homepage

@@ -1,5 +1,5 @@
 ---
-title: "Cultural Convergence: Insights into the behavior of misinformation networks on Twitter"
+title: "Cultural Convergence: Insights into the Behavior of Misinformation Networks on Twitter"
 date: 2020-11-19T01:01:00+01:00
 draft: false
 hideLastModified: true
